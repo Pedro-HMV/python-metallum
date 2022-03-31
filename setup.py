@@ -5,7 +5,7 @@ setup(
     version='1.1.0',
     author='Lachlan Charlick',
     author_email='lachlan.charlick@gmail.com',
-    url='https://github.com/lcharlick/python-metallum',
+    url='https://github.com/Pedro-HMV/python-metallum',
     license='MIT',
     description='Python API for www.metal-archives.com',
     long_description=open('README.md').read(),
