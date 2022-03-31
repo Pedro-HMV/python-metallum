@@ -1,4 +1,4 @@
-from setuptools import setup
+"""from setuptools import setup
 
 setup(
     name='python-metallum',
@@ -14,3 +14,4 @@ setup(
     python_requires='>=3',
     install_requires=['requests', 'requests-cache', 'pyquery', 'python-dateutil']
 )
+"""
